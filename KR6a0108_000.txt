@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說滿願子經
+#+DATE: 2015-08-30 19:31:42.007383
+#+PROPERTY: JUAN 0
