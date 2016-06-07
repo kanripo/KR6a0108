@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:31:41.826989
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:39
 #+TITLE: 佛說滿願子經
 #+PROPERTY: CBETA_ID T02n0108
 #+PROPERTY: ID KR6a0108
